@@ -24,7 +24,7 @@ Food Service Industry
 
 - **Supply Chain Optimization:** IStreamlining the ordering process to align with predicted sales and avoid disruptions.
 
-## 🛠 Skills
+## Skills
 - Data Cleaning and Preprocessing
 - Exploratory data analysis (EDA)
 - Model Evaluation
