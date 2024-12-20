@@ -47,7 +47,7 @@ Food Service Industry
 
 - **Feature Engineering:** Create relevant features from the sales data, such as day of the week, month, promotional periods, and holiday effects.
 
-- **Model Selection:** Choose an appropriate time series forecasting model (e.g., ARIMA, SARIMA, Prophet, LSTM, Regression Model).
+- **Model Selection:** Choose an appropriate time series forecasting model (e.g., ARIMA, SARIMA, Prophet).
 
 - **Model Training:** Train the predictive model on the historical sales data.
 
