@@ -82,7 +82,7 @@ Food Service Industry
 
 
 
-## Project Evaluation metrics
+## Project Result
 
 
 - Cleaned and preprocessed datasets
