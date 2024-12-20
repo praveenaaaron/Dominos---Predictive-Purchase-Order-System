@@ -65,7 +65,7 @@ Food Service Industry
 
 - **Sales Data:** Historical sales records (Date, Pizza Type, Quantity Sold, Price, Category, Ingredients)
 
-- **Ingredient Data:** Ingredient requirements for each pizza type (Pizza Type, Ingredient, Quantity Needed)
+- **Ingredient Data:** Ingredient requirements for each pizza type (pizza_name_id,pizza_name,pizza_ingredients,Items_Qty_In_Grams)
 
 
 ## Tags
