@@ -64,7 +64,7 @@ Food Service Industry
 ## Dataset
 
 - **Sales Data:** Historical sales records(pizza_id,order_id,pizza_name_id,quantity,order_date,order_time,
-- unit_price,total_price,pizza_size,pizza_category,pizza_ingredients)
+  unit_price,total_price,pizza_size,pizza_category,pizza_ingredients)
 
 - **Ingredient Data:** Ingredient requirements for each pizza type (pizza_name_id,pizza_name,pizza_ingredients,Items_Qty_In_Grams)
 
