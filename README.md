@@ -69,7 +69,7 @@ Food Service Industry
 - **Ingredient Data:** Ingredient requirements for each pizza type (pizza_name_id,pizza_name,pizza_ingredients,Items_Qty_In_Grams)
 
 
-# Tools and Technologies
+## Tools and Technologies
 
 - Data Cleaning
 - EDA
